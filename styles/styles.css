@@ -49,6 +49,11 @@ p::first-letter {
   color: black;
 }
 
+/*OMG! - you can use this for font-awesome icons*/
+p::after {
+  content: "SHAZAM";
+}
+
 footer {
   padding: 20px;
 }
