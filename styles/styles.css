@@ -1,0 +1,27 @@
+body {
+  background-color: #6D78B0;
+}
+
+article {
+  background-color: rgba(134,251,188, 0.5);
+}
+
+p {
+  color: orange;
+}
+
+header {
+  background-color: hsla(21, 99%, 79%, 0.6);
+}
+
+img {
+  width: 10rem;
+}
+
+aside p {
+  color: black;
+}
+
+h3 {
+  font-size: 200%;
+}
