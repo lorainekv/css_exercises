@@ -26,6 +26,15 @@ img:hover {
   border: 2px magenta solid;
 }
 
+pre:hover {
+  color: red;
+}
+
+aside {
+  border: 4px hsla(21, 99%, 79%, 0.6) dashed;
+  padding: 2rem;
+}
+
 aside p {
   color: black;
 }
@@ -38,4 +47,13 @@ h3 {
 p::first-letter {
   font-size: 200%;
   color: black;
+}
+
+footer {
+  padding: 20px;
+}
+
+footer a {
+  color: blue;
+  text-decoration: none;
 }
