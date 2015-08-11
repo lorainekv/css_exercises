@@ -33,3 +33,9 @@ aside p {
 h3 {
   font-size: 200%;
 }
+
+ /*Pseudo-elements!*/
+p::first-letter {
+  font-size: 200%;
+  color: black;
+}
